@@ -7,4 +7,3 @@ for my script to catch
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 12345678901234567890
 ~!@#$%^&*()_+
-{}|:"<>?[]\;',./
