@@ -1,0 +1,4 @@
+this is a text file
+lorem ipsum blah blah blah
+filler filler filler filler
+test for autocommitl
